@@ -5,4 +5,10 @@ def WTF():
 def print():
     print 'hello world'
 
-print()
+def leave(name):
+    print '%s is going to leave the city' % name
+     
+
+
+leave('niubi')
+
