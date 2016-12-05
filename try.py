@@ -8,5 +8,8 @@ def leave(name):
 def another_day():
     print 'tomorrow is another day!'
 
+print 'hello world'.split()     
+print 'I\'m so happy'
+
 leave('niubi')
 
