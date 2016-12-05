@@ -7,8 +7,9 @@ def print():
 
 def leave(name):
     print '%s is going to leave the city' % name
-     
 
+print 'hello world'.split()     
+print 'I\'m so happy'
 
 leave('niubi')
 
